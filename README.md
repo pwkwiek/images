@@ -1,5 +1,5 @@
 ## 📸 Image Processing Workshop Materials
-Beauty and the Bits: A Segmentation Saga
+*Beauty and the Bits: A Segmentation Saga*
 ##
 This repository contains resources for a workshop on foundational image processing techniques. The materials cover both theoretical concepts and practical applications in image analysis.
 
