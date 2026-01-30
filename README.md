@@ -1,9 +1,9 @@
-## 📸 Image Processing Workshop Materials
+## Image Processing Workshop Materials
 *Beauty and the Bits: A Segmentation Saga*
 ##
 This repository contains resources for a workshop on foundational image processing techniques. The materials cover both theoretical concepts and practical applications in image analysis.
 
-### 🗂 Topics Covered:
+### Topics Covered:
 
 * **What is an Image?**
   Understanding the nature and structure of digital images.
@@ -28,7 +28,7 @@ This repository contains resources for a workshop on foundational image processi
   * Techniques (rotation, flipping, noise injection, etc.)
   * Tools (OpenCV, TensorFlow, Albumentations, etc.)
 
-### 📁 Files Included:
+### Files Included:
 
 * Jupyter Notebook with explanations and code
 * Sample image file
